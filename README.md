@@ -7,7 +7,7 @@ The dataset being analysed is located at https://archive.ics.uci.edu/ml/machine-
 The framework being used for the machine learning is Keras. 
 
 The model has the following structure:
-
+```
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
 =================================================================
@@ -20,3 +20,4 @@ dense_3 (Dense)              (None, 1)                 11
 Total params: 501
 Trainable params: 501
 Non-trainable params: 0
+```
